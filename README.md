@@ -4,6 +4,8 @@
 
 A Discord bot designed to provide EDU tokens to developers for testing and development purposes. The bot ensures that each developer can request tokens only once every 24 hours to prevent spam and abuse.
 
+![image](https://github.com/user-attachments/assets/3df66dd8-8d66-4741-9e4f-883dca2b83c8)
+
 ## Features
 
 - **Token Distribution**: Provides 0.01 EDU tokens to a specified address upon receiving the `!send` command.
